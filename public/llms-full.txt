@@ -2,13 +2,13 @@
 
 A premium Israeli tax advisory practice led by a dual-qualified lawyer and CPA with an LLM degree and 12 years of experience, including 7 years at the Israel Tax Authority (serving large enterprises and the professional division). The brand projects authority, precision, and exclusivity — targeting sophisticated B2B clients such as accountants, lawyers, and CFOs who need expert opinions on complex tax issues including residency, control & management, financing expense offsets, structural reorganizations, advance tax rulings (pre-ruling), and transaction advisory. The tone is professional, trustworthy, and premium — a 'lawyer's lawyer' and 'accountant's accountant' positioning.
 
-Source: https://-0beb03e5.zappy5.app
+Source: https://example.com
 
 ---
 
 ## פתרונות מיסוי מדויקים — חי עמוס, עורך דין ורואה חשבון
 
-URL: https://-0beb03e5.zappy5.app
+URL: https://example.com
 Description: ייעוץ מס פרימיום לעורכי דין, רואי חשבון וסמנכ&quot;לי כספים. מתמחה בחוות דעת מורכבות, קריפטו, רילוקיישן ושינוי מבנה. פנו עוד היום לייעוץ אסטרטגי.
 
 פתרונות מיסוי מדויקים — חי עמוס, עורך דין ורואה חשבון
@@ -698,7 +698,7 @@ LL.M
 
 ## מדיניות פרטיות
 
-URL: https://-0beb03e5.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -961,7 +961,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-0beb03e5.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1233,7 +1233,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-0beb03e5.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1524,7 +1524,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפנית אלינו
 
-URL: https://-0beb03e5.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: חי עמוס, עורך דין ורואה חשבון - תודה שפנית אלינו
 
 תודה שפנית אלינו
