@@ -1,0 +1,69 @@
+# חי עמוס, עורך דין ורואה חשבון — Generative Engine Optimization Map
+
+> A premium Israeli tax advisory practice led by a dual-qualified lawyer and CPA with an LLM degree and 12 years of experience, including 7 years at the Israel Tax Authority (serving large enterprises and the professional division). The brand projects authority, precision, and exclusivity — targeting sophisticated B2B clients such as accountants, lawyers, and CFOs who need expert opinions on complex tax issues including residency, control & management, financing expense offsets, structural reorganizations, advance tax rulings (pre-ruling), and transaction advisory. The tone is professional, trustworthy, and premium — a 'lawyer's lawyer' and 'accountant's accountant' positioning.
+
+---
+
+## Pages
+
+### בית
+https://-0beb03e5.zappy5.app
+ייעוץ מס פרימיום לעורכי דין, רואי חשבון וסמנכ&quot;לי כספים. מתמחה בחוות דעת מורכבות, קריפטו, רילוקיישן ושינוי מבנה. פנו עוד היום לייעוץ אסטרטגי.
+
+### תודה שפנית אלינו
+https://-0beb03e5.zappy5.app/thank-you
+חי עמוס, עורך דין ורואה חשבון - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0beb03e5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0beb03e5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0beb03e5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-0beb03e5.zappy5.app
+- Endpoint: https://-0beb03e5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `full_name` (text)
+  - `email` (email)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חי עמוס, עורך דין ורואה חשבון
+A premium Israeli tax advisory practice led by a dual-qualified lawyer and CPA with an LLM degree and 12 years of experience, including 7 years at the Israel Tax Authority (serving large enterprises and the professional division). The brand projects authority, precision, and exclusivity — targeting sophisticated B2B clients such as accountants, lawyers, and CFOs who need expert opinions on complex tax issues including residency, control & management, financing expense offsets, structural reorganizations, advance tax rulings (pre-ruling), and transaction advisory. The tone is professional, trustworthy, and premium — a 'lawyer's lawyer' and 'accountant's accountant' positioning.
+
+## Target Audience
+- רואי חשבון, עורכי דין ללא מחלקת מיסים, סמנכ"לי כספים ודירקטורים
+- רואי חשבון ללא מחלקת מיסים
+- סמנכ"לי כספים ודירקטורים
+- עורכי דין ללא מחלקת מיסים
+
+## Industry
+Legal & Tax Advisory
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-0beb03e5.zappy5.app/sitemap.xml
+- Robots: https://-0beb03e5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-0beb03e5.zappy5.app/llms-full.txt
